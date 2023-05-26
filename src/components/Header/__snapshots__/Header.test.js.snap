@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders  1`] = `
+<div>
+  <header
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-pgnjvu-MuiPaper-root-MuiAppBar-root"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-u4fbkj-MuiToolbar-root"
+    >
+      <div
+        class="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-1svc8n9-MuiTypography-root"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="WorkIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"
+          />
+        </svg>
+        DoWork
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained  MuiButton-contained Primary MuiButton-sizeMedium MuiButton-contained SizeMedium MuiButton-root MuiButton-contained  MuiButton-contained Primary MuiButton-sizeMedium MuiButton-contained SizeMedium css-1or3yxj-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Create Task
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </header>
+</div>
+`;
